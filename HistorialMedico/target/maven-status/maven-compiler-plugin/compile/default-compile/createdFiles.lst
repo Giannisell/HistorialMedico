@@ -1,0 +1,13 @@
+com\gestion\medica\HistorialMedico\RegistroMedicoRepository.class
+com\gestion\medica\HistorialMedico\config\MongoConfig.class
+com\gestion\medica\HistorialMedico\HistorialMedicoController.class
+com\gestion\medica\HistorialMedico\RegistroMedicoService.class
+com\gestion\medica\HistorialMedico\DatosPacienteService.class
+com\gestion\medica\HistorialMedico\PacienteYaExisteException.class
+com\gestion\medica\HistorialMedico\DatosPaciente.class
+com\gestion\medica\HistorialMedico\GlobalExceptionHandler.class
+com\gestion\medica\HistorialMedico\HistorialMedicoApplication.class
+com\gestion\medica\HistorialMedico\PacienteNoEncontradoException.class
+com\gestion\medica\HistorialMedico\HistorialMedico.class
+com\gestion\medica\HistorialMedico\DatosPacienteRepository.class
+com\gestion\medica\HistorialMedico\RegistroMedico.class
